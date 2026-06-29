@@ -1,0 +1,20 @@
+/* 画面全体のデザイン */
+body {
+    background-color: #0d1117; /* 背景をダークグレーに */
+    color: #c9d1d9;            /* 文字の色を薄いグレーに */
+    font-family: 'Segoe UI', sans-serif; /* 見やすいフォントに変更 */
+    padding: 40px;             /* 画面の端に少し余白を作る */
+}
+
+/* 一番大きい見出し（H1）のデザイン */
+h1 {
+    color: #58a6ff;            /* 文字の色を鮮やかなブルーに */
+    border-bottom: 2px solid #21262d; /* 下にうっすら線を入れる */
+    padding-bottom: 10px;      /* 線と文字の間に隙間を作る */
+}
+
+/* 文章（pタグ）のデザイン */
+p {
+    font-size: 16px;           /* 文字の大きさを調整 */
+    line-height: 1.6;          /* 行と行の間隔を広げて読みやすく */
+}
